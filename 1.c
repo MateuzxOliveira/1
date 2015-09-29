@@ -10,4 +10,5 @@ int main(){
     }
   }
   printf("\n Quantidade de vogais: %d\n",qtd_vogais);
+  return 0;
 }
